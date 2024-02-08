@@ -1,0 +1,1 @@
+In this game, the code  reads an in-game map (or “dungeon”) from a file into a dynamic 2D array. The map updates as the player moves the character through the dungeon. The player’s goal is to pick up the treasure and go to the level’s exit. Additionally, magic amulets that resize the dungeon size as well as the logic for the monsters that chase the player are implemented!
